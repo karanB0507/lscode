@@ -1,0 +1,2 @@
+# lscode
+code LS CODE
